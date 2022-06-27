@@ -1,4 +1,4 @@
-## Gerador Senha
+## App Gerador de Senha - React Native
 <br/>
 
 <div align="center">
